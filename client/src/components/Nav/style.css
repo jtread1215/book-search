@@ -1,0 +1,13 @@
+.navbar {
+  border-radius: 0;
+}
+
+.nav-item {
+  background-color: lightskyblue;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.nav-tabs {
+  background-color: rgb(12, 88, 82);
+}
